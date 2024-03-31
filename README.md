@@ -1,1 +1,1 @@
-Игра моской бой написанная на PyCharm
+Battleship Game for Python
